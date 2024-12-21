@@ -18,11 +18,11 @@ const Contact = () => {
                 <a href="mailto:kalyanreddy.manda@gmail.com" className="flex items-center text-gray-600 hover:text-blue-600">
                   <Mail className="mr-3" size={20} />
                   kalyanreddy.manda@gmail.com                </a>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="flex items-center text-gray-600 hover:text-blue-600">
+                <a href="https://www.linkedin.com/in/manda-kalyan-reddy-521029221" target="_blank" rel="noopener noreferrer" className="flex items-center text-gray-600 hover:text-blue-600">
                   <Linkedin className="mr-3" size={20} />
                   LinkedIn Profile
                 </a>
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="flex items-center text-gray-600 hover:text-blue-600">
+                <a href="https://github.com/mandakalyan" target="_blank" rel="noopener noreferrer" className="flex items-center text-gray-600 hover:text-blue-600">
                   <Github className="mr-3" size={20} />
                   GitHub Profile
                 </a>
