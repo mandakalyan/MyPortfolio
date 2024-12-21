@@ -9,7 +9,7 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex justify-between items-center">
           <a href="#home" className="text-2xl font-bold text-gray-800">
-            DevOps<span className="text-blue-600">Pro</span>
+            KALYAN'S <span className="text-blue-600">Portfolio</span>
           </a>
           
           <div className="hidden md:flex space-x-8">
@@ -20,13 +20,13 @@ const Header = () => {
           </div>
 
           <div className="hidden md:flex space-x-4">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-blue-600">
+            <a href="https://github.com/mandakalyan" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-blue-600">
               <Github size={20} />
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-blue-600">
+            <a href="https://www.linkedin.com/in/manda-kalyan-reddy-521029221" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-blue-600">
               <Linkedin size={20} />
             </a>
-            <a href="mailto:your.email@example.com" className="text-gray-600 hover:text-blue-600">
+            <a href="mailto:kalyanreddy.manda@gmail.com" className="text-gray-600 hover:text-blue-600">
               <Mail size={20} />
             </a>
           </div>
